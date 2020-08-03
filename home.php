@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <?php
- $name="Suhas";
+ $name="Tejas";
+ $n="Suhas";
  ?>
 <html lang="en" dir="ltr">
   <head>
@@ -9,5 +10,6 @@
   </head>
   <body>
     <h1> hello <?php echo  $name; ?> </h1>
+    <h1>Hello <?php echo $n; ?></h1>
   </body>
 </html>
